@@ -7,4 +7,4 @@ this is an update
 
 this is an edit
 
-added new code to test.py
+added text to README.md
